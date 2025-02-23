@@ -28,6 +28,6 @@ A simple web application built with [Streamlit](https://streamlit.io/) that allo
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
+   git clone https://github.com/nadeemsangrasi/streamlit-project.git
+   cd streamlit-project
    ```
